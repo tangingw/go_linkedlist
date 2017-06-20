@@ -74,9 +74,8 @@ func (n *Node) Right() *Node {
 
 func (n *Node) Left(value interface{}) *Node {
 
-	previousNode := new(Node)
-
-	previousNode = n
+	//previousNode := new(Node)
+	previousNode := n
 
 	for n != nil {
 
