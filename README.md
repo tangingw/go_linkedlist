@@ -1,5 +1,5 @@
 # go Linked List
-This 
+This is the golang implementation of Linkedlist borrowed from GeeksfromGeeks.
 
 Usage:
 ```
